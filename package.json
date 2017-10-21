@@ -1,0 +1,23 @@
+{
+  "name": "genki_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ghostfreak3000@github.com/genkidocs/genki_server.git"
+  },
+  "keywords": [],
+  "author": "Bishaka Samuel <sbishaka@gmail.com> (https://twitter.com/sbishaka)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genkidocs/genki_server/issues"
+  },
+  "homepage": "https://github.com/genkidocs/genki_server#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
